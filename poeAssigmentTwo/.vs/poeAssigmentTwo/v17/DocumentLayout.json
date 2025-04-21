@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|c:\\users\\lab_services_student\\source\\repos\\cldv_assign\\cldv_assign\\poeassigmenttwo\\poeassigmenttwo\\services\\chatserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|solutionrelative:poeassigmenttwo\\services\\chatserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|c:\\users\\lab_services_student\\source\\repos\\cldv_assign\\cldv_assign\\poeassigmenttwo\\poeassigmenttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|solutionrelative:poeassigmenttwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|c:\\users\\lab_services_student\\source\\repos\\cldv_assign\\cldv_assign\\poeassigmenttwo\\poeassigmenttwo\\structures\\tipsb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|solutionrelative:poeassigmenttwo\\structures\\tipsb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|c:\\users\\lab_services_student\\source\\repos\\cldv_assign\\cldv_assign\\poeassigmenttwo\\poeassigmenttwo\\services\\displayascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|solutionrelative:poeassigmenttwo\\services\\displayascii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|c:\\users\\lab_services_student\\source\\repos\\cldv_assign\\cldv_assign\\poeassigmenttwo\\poeassigmenttwo\\services\\validateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|solutionrelative:poeassigmenttwo\\services\\validateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|c:\\users\\lab_services_student\\source\\repos\\cldv_assign\\cldv_assign\\poeassigmenttwo\\poeassigmenttwo\\structures\\responseb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|solutionrelative:poeassigmenttwo\\structures\\responseb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|c:\\users\\lab_services_student\\source\\repos\\cldv_assign\\cldv_assign\\poeassigmenttwo\\poeassigmenttwo\\services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DA828DF-D552-422A-A60F-10AB6561A78F}|poeAssigmentTwo\\poeAssigmentTwo.csproj|solutionrelative:poeassigmenttwo\\services\\audioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tipsB.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Structures\\tipsB.cs",
+              "RelativeDocumentMoniker": "poeAssigmentTwo\\Structures\\tipsB.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Structures\\tipsB.cs",
+              "RelativeToolTip": "poeAssigmentTwo\\Structures\\tipsB.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T15:14:31.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "responseB.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Structures\\responseB.cs",
+              "RelativeDocumentMoniker": "poeAssigmentTwo\\Structures\\responseB.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Structures\\responseB.cs",
+              "RelativeToolTip": "poeAssigmentTwo\\Structures\\responseB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:19:44.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chatServ.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\chatServ.cs",
+              "RelativeDocumentMoniker": "poeAssigmentTwo\\Services\\chatServ.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\chatServ.cs",
+              "RelativeToolTip": "poeAssigmentTwo\\Services\\chatServ.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAAAGUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:12:06.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "displayASCII.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\displayASCII.cs",
+              "RelativeDocumentMoniker": "poeAssigmentTwo\\Services\\displayASCII.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\displayASCII.cs",
+              "RelativeToolTip": "poeAssigmentTwo\\Services\\displayASCII.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:02:37.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "validateService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\validateService.cs",
+              "RelativeDocumentMoniker": "poeAssigmentTwo\\Services\\validateService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\validateService.cs",
+              "RelativeToolTip": "poeAssigmentTwo\\Services\\validateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:18:46.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "audioService.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\audioService.cs",
+              "RelativeDocumentMoniker": "poeAssigmentTwo\\Services\\audioService.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Services\\audioService.cs",
+              "RelativeToolTip": "poeAssigmentTwo\\Services\\audioService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAACwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:57:54.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Program.cs",
+              "RelativeDocumentMoniker": "poeAssigmentTwo\\Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\CLDV_Assign\\CLDV_Assign\\poeAssigmentTwo\\poeAssigmentTwo\\Program.cs",
+              "RelativeToolTip": "poeAssigmentTwo\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T07:01:50.439Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
